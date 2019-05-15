@@ -7,6 +7,7 @@ namespace PartnerHello
         static void Main(string[] args)
         {
             Console.WriteLine("Hello sergio!");
+            Console.WriteLine("testing");
         }
     }
 }
