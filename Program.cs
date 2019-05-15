@@ -8,7 +8,8 @@ namespace PartnerHello
         {
             Console.WriteLine("Hello sergio!");
             Console.WriteLine("testing");
-            Console.WriteLine("get outta my way");
+            Console.WriteLine("Testing, testing 123");
+            Console.WriteLine("CHCHCHCHanges");
         }
     }
 }
